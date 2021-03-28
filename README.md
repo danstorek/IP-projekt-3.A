@@ -1,6 +1,6 @@
 # Jednoduchý prohlížeč a editor databáze pro firmy
 
-## Fuknce
+## Funkce
 - prohlížení a úprava položek v databázi (úprava dostupná pouze pro administrátory)
 - možnost změny hesla pro každého uživatele
 
